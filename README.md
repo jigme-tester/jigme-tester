@@ -6,7 +6,7 @@
 +-----------------------------------------------------------------------------+
 ```
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer+%F0%9F%92%BB;React+%26+Next.js+%E2%9A%9B%EF%B8%8F;Building+the+web%2C+one+component+at+time+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
+
  
 ## 🔮 Tech Stack
  
